@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="please_input">何か入力して下さい。</string>
+    <string name="app_name">touch_me</string>
+    <string name="button_text">コピー</string>
+</resources>
